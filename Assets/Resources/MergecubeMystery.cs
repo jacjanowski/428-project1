@@ -5,11 +5,11 @@ using TMPro;
 using System;
 using Random = UnityEngine.Random;
 
-public class Example : MonoBehaviour
+public class MergecubeMystery : MonoBehaviour
 {
 
     public GameObject mysteryMessage;
-    
+
 
     void Start()
     {
