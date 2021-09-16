@@ -19,6 +19,7 @@ public class Rotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //code
         currentRotation = currentRotation + anglesToRotate * Time.deltaTime;
         currentRotation = new Vector3(currentRotation.x % 360f, currentRotation.y % 360f, currentRotation.z % 360f);
         this.transform.eulerAngles = currentRotation;
