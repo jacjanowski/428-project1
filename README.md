@@ -13,4 +13,4 @@ Create an empty directory with the name of your choosing and go into it. From th
 ```
 git clone https://github.com/jacjanowski/428-project1.git
 ```
-Once done, open the project inside of Unity. Make sure you have the right version of Unity and Vuforia. 
+Once done, open the project inside of Unity. Make sure you have the right version of Unity and Vuforia. Inside of Unity, make sure to link Vuforia to Unity by going to 'Tools -> Build Settings -> Vuforia Configuration'. From there, on the right hand side there will be an area to 'Add License Key'. Paste in the license key that came with the Vuforia download page. Sign in, and 'Get License Key' from the top of the navbar on the website. Copy to clipboard and paste it in. Your project is now linked to Vuforia. Everything else is set and ready to use, so simply click the 'Play' button at the top middle page. Make sure your webcam is connected (it will auto-detect if so).
