@@ -4,8 +4,11 @@
 This project focuses on the creation of two models that have two different approaches to them. With different designs to them, the main focus is to understand how to work with these models and customize them with materials while creating our own as well.
 
 ## Versions
-Unity 2019.4.28f -  
+Unity 2019.4.28f - [https://unity3d.com/unity/whats-new/2019.4.28](https://unity3d.com/unity/whats-new/2019.4.28) 
+
 Vuforia 9.8 - [https://developer.vuforia.com/downloads/sdk?field_sdk_release_version_tid=57](https://developer.vuforia.com/downloads/sdk?field_sdk_release_version_tid=57)
+
+Blender 2.9 - [https://www.blender.org/download/](https://www.blender.org/download/)
 
 
 ## Installation
